@@ -44,6 +44,10 @@ var app = {
                     //alert(data.responseText);
                 }
             });
+
+            $(document).click(function(e){
+                location.href="main.html";
+            })
         })
     },
     // Update DOM on a Received Event
