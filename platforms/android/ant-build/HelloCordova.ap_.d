@@ -1,0 +1,26 @@
+C:\Sites\myapp\platforms\android\ant-build\HelloCordova.ap_ \
+ : C:\Sites\myapp\platforms\android\res\drawable\icon.png \
+C:\Sites\myapp\platforms\android\res\drawable-hdpi\icon.png \
+C:\Sites\myapp\platforms\android\res\drawable-ldpi\icon.png \
+C:\Sites\myapp\platforms\android\res\drawable-mdpi\icon.png \
+C:\Sites\myapp\platforms\android\res\drawable-xhdpi\icon.png \
+C:\Sites\myapp\platforms\android\res\values\strings.xml \
+C:\Sites\myapp\platforms\android\res\xml\config.xml \
+C:\Sites\myapp\platforms\android\ant-build\res\drawable\icon.png \
+C:\Sites\myapp\platforms\android\ant-build\res\drawable-hdpi\icon.png \
+C:\Sites\myapp\platforms\android\ant-build\res\drawable-ldpi\icon.png \
+C:\Sites\myapp\platforms\android\ant-build\res\drawable-mdpi\icon.png \
+C:\Sites\myapp\platforms\android\ant-build\res\drawable-xhdpi\icon.png \
+C:\Sites\myapp\platforms\android\assets\www \
+C:\Sites\myapp\platforms\android\assets\_where-is-www.txt \
+C:\Sites\myapp\platforms\android\assets\www\cordova.js \
+C:\Sites\myapp\platforms\android\assets\www\cordova_plugins.js \
+C:\Sites\myapp\platforms\android\assets\www\css \
+C:\Sites\myapp\platforms\android\assets\www\img \
+C:\Sites\myapp\platforms\android\assets\www\index.html \
+C:\Sites\myapp\platforms\android\assets\www\js \
+C:\Sites\myapp\platforms\android\assets\www\css\index.css \
+C:\Sites\myapp\platforms\android\assets\www\img\logo.png \
+C:\Sites\myapp\platforms\android\assets\www\js\index.js \
+C:\Sites\myapp\platforms\android\assets\www\js\jquery-1.11.1.min.js \
+C:\Sites\myapp\platforms\android\ant-build\AndroidManifest.xml \
